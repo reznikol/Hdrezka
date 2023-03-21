@@ -4,7 +4,6 @@
  
 import imaplib
 import email
-import re
 from bs4 import BeautifulSoup
 
 
