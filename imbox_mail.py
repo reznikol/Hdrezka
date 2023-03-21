@@ -8,7 +8,7 @@ import re
 from bs4 import BeautifulSoup
 
 
-FROM = 'mirror@hdrezka.org' #'o.reznik@cznanapa.ru'
+FROM = 'mirror@hdrezka.org'
 MYMAIL = 'ya-lka@yandex.ru'
 PASSWORD = 'zofzzqmauxwisppe'
 IMAPMAIL = 'imap.yandex.ru'
